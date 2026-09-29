@@ -10,7 +10,7 @@ KAIST MFE | Quant · Derivatives · Financial AI
 - **10-Q 보고서 분석**
 
 ### Tech Stack
-Python · SQL (PostgreSQL, SQLite) · Git · Machine Learning / Deep Learning · Neo4j · LLM
+Python · Git · Machine Learning / Deep Learning · LLM
 
 ### Background
 UNIST 산업공학·경영학 (복수전공) · KAIST 금융공학 석사과정
