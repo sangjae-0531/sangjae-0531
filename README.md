@@ -3,7 +3,7 @@ KAIST MFE | Quant · Derivatives · Financial AI
 
 ### Projects
 - **KSIF QVI팀** — 개별주 리서치 파이프라인 설계·구현, 전략 개발 및 백테스트 (private)
-- **Agent AI 기반 상장사 DB 구축 및 유사기업 선정 자동화** — 서울대 빅데이터 핀테크 AI 과정 캡스톤, 에프앤자산평가 협업, 프로젝트 리더 (2026.01)
+- **Agent AI 기반 상장사 DB 구축 및 유사기업 선정 자동화** — 서울대 빅데이터 핀테크 AI 과정 캡스톤, 에프앤자산평가 협업, 프로젝트 리더 (2026.01) (private)
 - **Decision-Focused Learning 기반 포트폴리오 최적화** — 연구 프로젝트
 - **유전 알고리즘 포트폴리오 최적화**
 - **Lending Club 대출 부도 예측** — 머신러닝
